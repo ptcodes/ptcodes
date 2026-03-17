@@ -1,12 +1,11 @@
-# Hi, I'm Pavel Timofeev 👋
+# Hi, I'm Pavel 👋
 
 I'm a software developer passionate about low-level systems and cutting-edge technology.
 
-**Currently interested in:**
+**Currently learning:**
 - 🤖 AI & LLMs
 - 🦀 Rust
 - ⛓️ Blockchain & distributed systems
 - 🐧 Linux & systems programming
-- 📝 Vim
 
 Feel free to explore my repositories and reach out! 🚀
