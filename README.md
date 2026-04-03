@@ -2,7 +2,7 @@
 
 I'm a software developer passionate about low-level systems and cutting-edge technology.
 
-**Currently learning:**
+**Currently interested in:**
 - 🤖 AI & LLMs
 - 🦀 Rust
 - ⛓️ Blockchain & distributed systems
